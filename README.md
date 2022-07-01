@@ -7,9 +7,3 @@ the stock items of a company. Typically, Stock Management Systems are used by fi
 purpose of accounting all the tangible goods that allow for a sale of a finished product, or parts for making a product. This stock management system
 consists of Product Management to add, list and update the stock based on the sale details, Purchase Management, Sales Management to generate receipts 
 for sales and User management to keep records of the customers.
-
-
-TEAM MEMBERS 
-1. SANCHIT GUPTA
-2. S.V.S RAHUL
-3. PRANEETH BHARGHAV
