@@ -1,0 +1,13 @@
+12
+1 kurkure 20 50 Chips
+2 lays 10 40 Chips
+3 cococola 10 50 Beverage
+4 saffola-oil 80 20 Oil
+5 colgate 40 30 Toothpaste
+6 notebook 20 100 Stationary
+7 oreo 15 65 Biscuit
+8 dairy-milk 20 45 Chocolate
+9 bourbon 25 50 Biscuit
+10 pen 10 45 Stationary
+11 eraser 5 66 Stationary
+12 maaza 10 70 Beverage
